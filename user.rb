@@ -10,7 +10,7 @@ class User
     @phone_number = phone_number
   end
 
-  def add_cart(first_name, last_name, number, month, year, verification_value)
+  def add_card(first_name, last_name, number, month, year, verification_value)
     @first_name = first_name
     @last_name = last_name
     @number = number
