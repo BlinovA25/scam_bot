@@ -7,8 +7,7 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-*.yml
-
 /scam_bot.iml
 
 *.xml
+*.yml
